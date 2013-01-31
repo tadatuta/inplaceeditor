@@ -4,6 +4,8 @@ InPlaceEditor
 Edit static HTML pages ( text content and HTML code ) with this simple InPlaceEditor
 ------------------------------------------------
 
+http://habrahabr.ru/post/167647/
+
 **Usage example**
 
 **getting html5 boilerplate bootstrap template**
